@@ -65,4 +65,8 @@ Physiognomy's New Clothes
 
 
 
-## References
+## Final Grade
+
+
+
+I think for my final grade I deserve an A, although if I got an A- or B I wouldnt complain either. During the start of the semester I was gone alot due to having covid and the consequences that arose because of that which made it diffficult to attend on a regular basis. That is why I wouldnt be suprised if I got a B in the class since I did not attend regularly in the beginning. Once I recovered I came almost every class period and even while I was sick I made sure to be in touch with my team and to work on my part of prepping the data. My contributions to our project was prepping around 700 lines of data to be able for a model to read it and having a target variable. I also built an LSTM model to see how well that would do in predicting Lattitude and logitude. On wednesdays during class discussions I felt like I often participated in the discussion by voicing my opinion and sharing interesting insights. For our deliverable, we are presening the best working model to LyteWorx and will be wxplaining how it works. 
