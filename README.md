@@ -62,11 +62,3 @@ Physiognomy's New Clothes
 
 
 
-
-
-
-## Final Grade
-
-
-
-I think for my final grade I deserve an A. During the start of the semester I was gone alot due to having covid and the health issues that made it difficult to attend reguarly.  Once I recovered I came almost every class period and even while I was sick I made sure to be in touch with my team and to work on my part of prepping the data. I was also able to hit well over the goal of 107 hours for the semetser. My contributions to our project was prepping around 700 lines of data  and creating the target variable. I also built an LSTM model to predict Lattitude and logitude. On wednesdays during class discussions I felt like I often participated in the discussion by voicing my opinion and sharing interesting insights. For our deliverable, we are presening the best working model to LyteWorx and will be explaining how it works. 
